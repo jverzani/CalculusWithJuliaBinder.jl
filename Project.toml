@@ -15,6 +15,8 @@ SimpleExpressions = "deba94f7-f32a-40ad-b45e-be020a5ded2f"
 
 [compat]
 Contour = "0.6"
+HCubature = "1"
+SimpleExpressions = "1"
 julia = "1.6.7"
 
 [extras]
